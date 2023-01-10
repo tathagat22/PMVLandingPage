@@ -1,0 +1,2055 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-size: 14px;
+}
+.wholecontainer {
+  width: 100%;
+  height: 6934px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.founderrect {
+  width: 140px;
+  height: 242px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 5079px;
+  left: 530px;
+}
+.salesback {
+  width: 290px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 5511px;
+  left: 716px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.aboutback {
+  width: 81.6%;
+  height: 761px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2696px;
+  left: 145px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.stepline {
+  height: 834px;
+  opacity: 1;
+  position: absolute;
+  top: 1492px;
+  left: 720px;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+.contactb {
+  width: 139px;
+  height: 49px;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 1209px;
+  overflow: hidden;
+}
+.contactus {
+  width: 139px;
+  height: 49px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 30px;
+}
+.contactus:hover {
+  width: 139px;
+  height: 49px;
+  background: rgb(0, 0, 0);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 30px;
+  color: white;
+  animation: in 1s ease-out forwards;
+}
+
+.contactusbutton {
+  width: 93px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 14px;
+  left: 27px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+}
+.navinsights {
+  width: 57px;
+  color: black;
+  position: absolute;
+  top: 114px;
+  left: 537px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+}
+.nav:active {
+  color: rgba(72, 115, 255, 1);
+  font-weight: 700;
+}
+.nav:focus {
+  color: rgba(72, 115, 255, 1);
+  font-weight: 700;
+}
+.navdeals {
+  width: 106px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 625px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+}
+.navcareer {
+  width: 49px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 761px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+}
+.navabout {
+  width: 62px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 840px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+}
+.searchic {
+  width: 50px;
+  height: 38px;
+  opacity: 1;
+  position: absolute;
+  top: 106px;
+  left: 1129px;
+  overflow: hidden;
+}
+.line {
+  position: absolute;
+  width: 38px;
+  height: 0px;
+  left: 1179px;
+  top: 106px;
+
+  border: 1px solid #000000;
+  transform: rotate(90deg);
+}
+.v2401_11256 {
+  width: 24px;
+  height: 24px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2401_11257 {
+  width: 23px;
+  height: 23px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+.name {
+  color: #fff;
+}
+.mainlogo {
+  width: 162px;
+  height: 60px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 93px;
+  left: 100px;
+  overflow: hidden;
+}
+.herorect {
+  width: 760px;
+  height: 289px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 229px;
+  left: 826px;
+}
+.herohead {
+  width: 530px;
+  color: black;
+  position: absolute;
+  top: 260px;
+  left: 100px;
+  font-family: "Red Hat Display";
+  font-weight: 900;
+  font-size: 60px;
+  opacity: 1;
+  text-align: left;
+}
+.howheader {
+  width: 298px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 1189px;
+  left: 591px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+#reviewsec {
+  position: absolute;
+  margin-left: 3%;
+}
+#customersec {
+  position: absolute;
+  margin-left: 3%;
+}
+.reviewhead {
+  width: 515px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 4759px;
+  left: 463px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.customerhead {
+  width: 360px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 4022px;
+  left: 100px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.herodesc {
+  width: 476px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 505px;
+  left: 100px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+  line-height: 30px;
+}
+.lmbutton {
+  width: 159px;
+  height: 49px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  border-radius: 30px;
+  position: absolute;
+  top: 578px;
+  left: 100px;
+  overflow: hidden;
+}
+.buttonlm {
+  width: 159px;
+  height: 49px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  border-radius: 30px;
+  top: 0px;
+  left: 0px;
+  color: white;
+  animation: boxshadow 2s infinite;
+}
+.buttonlm:hover {
+  width: 159px;
+  height: 49px;
+  background: rgb(0, 0, 0);
+  opacity: 1;
+  position: absolute;
+  border-radius: 30px;
+  top: 0px;
+  left: 0px;
+  animation: in 1s ease-out forwards;
+}
+.lmtext {
+  width: 99px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 12px;
+  left: 32px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.smallnav {
+  width: 100%;
+  height: 54px;
+  background: linear-gradient(90.57deg, #16f0df -25.31%, #5849e2 103.48%);
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+  z-index: 1;
+}
+.mailsec {
+  width: 218px;
+  height: 21px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 982px;
+  overflow: hidden;
+  z-index: 2;
+}
+.mail {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 0px;
+  left: 27px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.mailic {
+  width: 20px;
+  height: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  overflow: hidden;
+}
+.phonesec {
+  width: 212px;
+  height: 21px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 1203px;
+  overflow: hidden;
+  z-index: 2;
+}
+.phone {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 0px;
+  left: 21px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.phoneic {
+  width: 15px;
+  height: 15px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  overflow: hidden;
+}
+.sliderback {
+  width: 100%;
+  height: 250px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 789px;
+  left: -5px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+.marketresback {
+  width: 440px;
+  height: 274px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1399px;
+  left: 185px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.fmvback {
+  width: 440px;
+  height: 274px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1808px;
+  left: 831px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.pitchback {
+  width: 440px;
+  height: 274px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2237px;
+  left: 208px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.heroimg {
+  width: 732px;
+  height: 613px;
+  opacity: 1;
+  position: absolute;
+  top: 176px;
+  left: 789px;
+  overflow: hidden;
+}
+.heroimage {
+  width: 732px;
+  height: 613px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 79px;
+  overflow: hidden;
+}
+.heroarrowri {
+  width: 63px;
+  height: 55px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 710px;
+  left: 1455px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  overflow: hidden;
+}
+.heroarrowle {
+  width: 63px;
+  height: 55px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 710px;
+  left: 1392px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  overflow: hidden;
+}
+.arrowleft {
+  width: 26px;
+  height: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 725px;
+  left: 1475px;
+  overflow: hidden;
+}
+.v2401_11311 {
+  width: 11px;
+  height: 20px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 7px;
+}
+.arrowright {
+  width: 26px;
+  height: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 725px;
+  left: 1415px;
+  overflow: hidden;
+}
+.consult {
+  width: 352px;
+  height: 250px;
+  opacity: 1;
+  position: absolute;
+  top: 789px;
+  left: 100px;
+  overflow: hidden;
+}
+.consultback {
+  width: 352px;
+  height: 250px;
+  background: linear-gradient(rgba(88, 73, 226, 1), rgba(30, 229, 184, 1));
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+
+.consulthead {
+  width: 264px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 59px;
+  left: 60px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 34px;
+  opacity: 1;
+  text-align: left;
+}
+.consultdesc {
+  width: 207px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 164px;
+  left: 60px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.topadvisor {
+  width: 249px;
+  height: 193px;
+  opacity: 1;
+  position: absolute;
+  top: 818px;
+  left: 487px;
+  overflow: hidden;
+}
+.topadvisorback {
+  width: 249px;
+  height: 193px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.topadvisorhead {
+  width: 150px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 36px;
+  left: 31px;
+  font-family: Red Hat Display;
+  font-weight: 800;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.topadvisordesc {
+  width: 180px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 74px;
+  left: 31px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.efficient {
+  width: 249px;
+  height: 193px;
+  opacity: 1;
+  position: absolute;
+  top: 818px;
+  left: 771px;
+  overflow: hidden;
+}
+.efficientback {
+  width: 249px;
+  height: 193px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.efficienthead {
+  width: 99px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 35px;
+  left: 31px;
+  font-family: Red Hat Display;
+  font-weight: 800;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.efficientdesc {
+  width: 180px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 73px;
+  left: 31px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.hitech {
+  width: 249px;
+  height: 193px;
+  opacity: 1;
+  position: absolute;
+  top: 818px;
+  left: 1055px;
+  overflow: hidden;
+}
+.hitechback {
+  width: 249px;
+  height: 193px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.hitechhead {
+  width: 139px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 35px;
+  left: 31px;
+  font-family: Red Hat Display;
+  font-weight: 800;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+#slider {
+  position: absolute;
+  left: 90px;
+}
+.hitechdesc {
+  width: 180px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 73px;
+  left: 31px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.howdesc {
+  width: 691px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 1265px;
+  left: 385px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 22px;
+  opacity: 1;
+  text-align: center;
+}
+.reviewdesc {
+  width: 419px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 4835px;
+  left: 511px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 22px;
+  opacity: 1;
+  text-align: center;
+}
+.customerdesc {
+  width: 315px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 4182px;
+  left: 100px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.partnerhead {
+  width: 594px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 3607px;
+  left: 423px;
+  font-family: Red Hat Display;
+  font-weight: Bold;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.partnerdesc {
+  width: 323px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 3683px;
+  left: 559px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 22px;
+  opacity: 1;
+  text-align: center;
+}
+.pitchvideo {
+  width: 403px;
+  height: 309px;
+  opacity: 1;
+  position: absolute;
+  top: 2237px;
+  left: 831px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.fmvvideo {
+  width: 404px;
+  height: 309px;
+  opacity: 1;
+  position: absolute;
+  top: 1818px;
+  left: 208px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.marketresvideo {
+  width: 404px;
+  height: 309px;
+  opacity: 1;
+  position: absolute;
+  top: 1399px;
+  left: 831px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.marketresdesc {
+  width: 366px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 1491px;
+  left: 222px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+  line-height: 30px;
+}
+.fmvdesc {
+  width: 366px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 1932px;
+  left: 868px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+  line-height: 30px;
+}
+.pitchdesc {
+  width: 366px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 2319px;
+  left: 245px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+  line-height: 30px;
+}
+.marketreshead {
+  width: 271px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 1437px;
+  left: 222px;
+  font-family: Red Hat Display;
+  font-weight: 800;
+  font-size: 34px;
+  opacity: 1;
+  text-align: left;
+}
+.fmvhead {
+  width: 367px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 1838px;
+  left: 868px;
+  font-family: Red Hat Display;
+  font-weight: 800;
+  font-size: 34px;
+  opacity: 1;
+  text-align: left;
+}
+.pitchhead {
+  width: 189px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 2265px;
+  left: 245px;
+  font-family: Red Hat Display;
+  font-weight: 800;
+  font-size: 34px;
+  opacity: 1;
+  text-align: left;
+}
+.oneback {
+  width: 111px;
+  height: 111px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1399px;
+  left: 665px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+  z-index: 1;
+}
+.twoback {
+  width: 111px;
+  height: 111px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1818px;
+  left: 666px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.threeback {
+  width: 111px;
+  height: 111px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2237px;
+  left: 666px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.one {
+  width: 50px;
+  color: rgba(88, 73, 226, 1);
+  position: absolute;
+  top: 1427px;
+  left: 696px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+  z-index: 9;
+}
+.aboutlightrect {
+  width: 298px;
+  height: 41px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2852px;
+  left: 1088px;
+  overflow: hidden;
+}
+.twoo {
+  width: 60px;
+  color: rgba(88, 73, 226, 1);
+  position: absolute;
+  top: 1846px;
+  left: 690px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.three {
+  width: 63px;
+  color: rgba(88, 73, 226, 1);
+  position: absolute;
+  top: 2265px;
+  left: 689px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+#howsec {
+  position: absolute;
+  margin-left: 42px;
+}
+.aboutmain {
+  width: 100%;
+  height: 560px;
+  opacity: 1;
+  position: absolute;
+  top: 2796px;
+  left: 225px;
+  overflow: hidden;
+}
+.aboutrect {
+  width: 236px;
+  height: 289px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 53px;
+  left: 254px;
+}
+.abouthead {
+  width: 443px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 15px;
+  left: 630px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.aboutc {
+  width: 240px;
+  height: 49px;
+  opacity: 1;
+  position: absolute;
+  top: 475px;
+  left: 630px;
+  overflow: hidden;
+  border-radius: 30px;
+  animation: boxshadow 2s infinite;
+}
+.aboutconnect {
+  width: 240px;
+  height: 49px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 30px;
+}
+.whatsappbutton {
+  width: 169px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 12px;
+  left: 36px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+}
+.aboutdesc {
+  width: 422px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 101px;
+  left: 630px;
+  font-family: Red Hat Display;
+  font-weight: 400;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+  line-height: 35px;
+}
+.canebot {
+  width: 191px;
+  height: 49px;
+  position: absolute;
+  top: 3820px;
+  left: 184px;
+  overflow: hidden;
+}
+.theyarnbazaar {
+  width: 190px;
+  height: 55px;
+  position: absolute;
+  top: 3817px;
+  left: 460px;
+  overflow: hidden;
+}
+.yourfootdoctor {
+  width: 270px;
+  height: 45px;
+  position: absolute;
+  top: 3822px;
+  left: 735px;
+  overflow: hidden;
+}
+.isac {
+  width: 167px;
+  height: 37px;
+  position: absolute;
+  top: 3826px;
+  left: 1090px;
+  overflow: hidden;
+}
+.hi {
+  width: 71px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 2782px;
+  left: 855px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.virtualspaceback {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4394px;
+  left: 923px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.virtualback {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.virtualimg {
+  width: 175px;
+  height: 29px;
+  background: url("assests/image\ 22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 83px;
+  left: 18px;
+  overflow: hidden;
+}
+.upcyclerback {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4259px;
+  left: 1137px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.upcycler {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.upcyclerimg {
+  width: 190px;
+  height: 42px;
+  background: url("assests/image\ 21.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  left: 7px;
+  overflow: hidden;
+}
+.bh {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4107px;
+  left: 495px;
+  overflow: hidden;
+  /* box-shadow: 0px 2px 30px rgb(0 0 0 / 6%); */
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+}
+.beinghuman {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  overflow: hidden;
+}
+.beinghumanimg {
+  width: 112px;
+  height: 113px;
+  background: url("assests/image\ 15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  left: 46px;
+  overflow: hidden;
+}
+.emiratesback {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4022px;
+  left: 709px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.emirates {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  overflow: hidden;
+}
+.emiratesimg {
+  width: 116px;
+  height: 116px;
+  background: url("assests/image\ 16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 44px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.nimbusback {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4179px;
+  left: 923px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.nimbus {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  overflow: hidden;
+}
+.nimbusimg {
+  width: 135px;
+  height: 77px;
+  background: url("assests/image\ 17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  left: 35px;
+  overflow: hidden;
+}
+.infiniteback {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4044px;
+  left: 1137px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.infinite {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  overflow: hidden;
+}
+.infiniteimg {
+  width: 148px;
+  height: 68px;
+  background: url("assests/image\ 18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 68px;
+  left: 28px;
+  overflow: hidden;
+}
+.studypaqback {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4322px;
+  left: 495px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.studypaq {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.studypaqimg {
+  width: 151px;
+  height: 33px;
+  background: url("assests/image\ 19.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 86px;
+  left: 27px;
+  overflow: hidden;
+}
+.jiovioback {
+  width: 204px;
+  height: 204px;
+  position: absolute;
+  top: 4237px;
+  left: 709px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+.jiovio {
+  width: 204px;
+  height: 204px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.jiovioimg {
+  width: 148px;
+  height: 47px;
+  background: url("assests/image\ 20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 79px;
+  left: 28px;
+  overflow: hidden;
+}
+.customdesign {
+  width: 247px;
+  opacity: 1;
+  position: absolute;
+  top: 4335px;
+  left: 100px;
+  border: 1px solid rgba(72, 115, 255, 1);
+}
+.salesimg {
+  width: 266px;
+  height: 121px;
+  background: url("assests/image\ 47.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5553px;
+  left: 728px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.founderback {
+  width: 624px;
+  height: 518px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 4969px;
+  left: 716px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.founderlightrect {
+  width: 244px;
+  height: 38px;
+  background: rgba(230, 236, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 5051px;
+  left: 884px;
+  overflow: hidden;
+}
+.founderhead {
+  width: 254px;
+  color: rgba(77, 119, 255, 1);
+  position: absolute;
+  top: 5079px;
+  left: 757px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 22px;
+  opacity: 1;
+  text-align: center;
+}
+.founderdesc {
+  width: 541px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 5127px;
+  left: 757px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+  line-height: 30px;
+}
+.foundername {
+  width: 250px;
+  color: rgba(15, 13, 21, 1);
+  position: absolute;
+  top: 5029px;
+  left: 757px;
+  font-family: Red Hat Display;
+  font-weight: 800;
+  font-size: 34px;
+  opacity: 1;
+  text-align: left;
+}
+.comma1 {
+  width: 87px;
+  height: 87px;
+  opacity: 1;
+  position: absolute;
+  top: 4908px;
+  left: 709px;
+  overflow: hidden;
+}
+.commaone {
+  width: 84.6px;
+  height: 84.6px;
+  position: absolute;
+  top: 17px;
+  left: 7px;
+}
+.comma2 {
+  width: 84px;
+  height: 84px;
+  opacity: 1;
+  position: absolute;
+  top: 4908px;
+  left: 736px;
+  overflow: hidden;
+}
+.commatwo {
+  width: 84.6px;
+  height: 84.6px;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 23px;
+}
+.reviewvideo {
+  width: 550px;
+  height: 308px;
+  background: url("assests/image\ 49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4969px;
+  left: 100px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.mountainback {
+  width: 417px;
+  height: 293px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 5340px;
+  left: 100px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  box-shadow: 0px 2.875861883163452px 43px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+}
+.mountainimg {
+  width: 375px;
+  height: 260px;
+  background: url("assests/image\ 48.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5357px;
+  left: 121px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  overflow: hidden;
+}
+.specialback {
+  width: 100%;
+  height: 327px;
+  background: rgba(153, 177, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 5865px;
+  left: 0px;
+  overflow: hidden;
+}
+.specialwhiterect {
+  width: 329px;
+  height: 78px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 6036px;
+  left: 1118px;
+  overflow: hidden;
+}
+.specialhead {
+  width: 578px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 5970px;
+  left: 69px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.specialsmall {
+  width: 172px;
+  color: rgba(235, 235, 235, 1);
+  position: absolute;
+  top: 5932px;
+  left: 272px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 22px;
+  opacity: 1;
+  text-align: center;
+}
+.specialdesc {
+  width: 452px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 5932px;
+  left: 893px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 28px;
+  opacity: 1;
+  text-align: center;
+}
+.specialconnect {
+  width: 169px;
+  height: 49px;
+  opacity: 1;
+  position: absolute;
+  top: 6024px;
+  left: 1035px;
+  border-radius: 30px;
+  overflow: hidden;
+}
+.specialbutton {
+  width: 179px;
+  height: 49px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.specialbutton:hover {
+  width: 179px;
+  height: 49px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  animation: in 1s ease-out forwards;
+}
+.specialconnectbutton {
+  width: 123px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 12px;
+  left: 33px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.footercontainer {
+  width: 100%;
+  height: 611px;
+  background: url("../images/v2401_11410.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6323px;
+  left: 0px;
+  overflow: hidden;
+}
+.footer {
+  width: 100%;
+  height: 611px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.footerlogo {
+  width: 162px;
+  height: 60px;
+  opacity: 1;
+  position: absolute;
+  top: 110px;
+  left: 110px;
+  overflow: hidden;
+}
+
+.footercopyright {
+  width: 401px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 535px;
+  left: 119px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.footermenuR {
+  width: 105px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 245px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.fottermenuB {
+  width: 69px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 243px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.footermenuN {
+  width: 84px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 287px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.footermenuA {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 331px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.footermenuT {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 375px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.footermenuS {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 419px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.facebook {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 105.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 443px;
+  overflow: hidden;
+}
+
+.instagram {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 106.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 489px;
+  overflow: hidden;
+}
+.twitter {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 107.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 536px;
+  overflow: hidden;
+}
+
+.linkedin {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 108.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 582px;
+  overflow: hidden;
+}
+.keepconnect {
+  width: 200px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 111px;
+  left: 443px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.footercontact {
+  width: 200px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 111px;
+  left: 814px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.footermail {
+  width: 237px;
+  height: 21px;
+  position: absolute;
+  top: 171px;
+  left: 814px;
+  overflow: hidden;
+}
+.footermailtext {
+  width: 205px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: -5px;
+  left: 32px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.footermailic {
+  width: 26px;
+  height: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: -1px;
+  overflow: hidden;
+}
+.footermailimg {
+  width: 20px;
+  height: 15px;
+  background: url("assests/bigmail.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 3px;
+  overflow: hidden;
+}
+
+.footerphone {
+  width: 221px;
+  height: 24px;
+  position: absolute;
+  top: 212px;
+  left: 814px;
+  overflow: hidden;
+}
+.footerphonetext {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 1px;
+  left: 30px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.footerphoneic {
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.footerphoneimg {
+  width: 20px;
+  height: 20px;
+  background: url("assests/20296458971553228387\ 2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  overflow: hidden;
+}
+
+.movetoupborder {
+  width: 67px;
+  height: 72px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 123px;
+  left: 1269px;
+  border: 1px solid rgba(72, 115, 255, 1);
+  border-radius: 5px;
+}
+.movetoupcontainer {
+  width: 26px;
+  height: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 146px;
+  left: 1290px;
+  overflow: hidden;
+}
+.movetoup {
+  width: 25px;
+  height: 25px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.videoicon {
+  width: 86px;
+  height: 86px;
+  opacity: 1;
+  position: absolute;
+  top: 1511px;
+  left: 990px;
+  overflow: hidden;
+}
+.fmvvideosic {
+  width: 86px;
+  height: 86px;
+  opacity: 1;
+  position: absolute;
+  top: 1930px;
+  left: 367px;
+  overflow: hidden;
+}
+.pitchvideosic {
+  width: 86px;
+  height: 86px;
+  opacity: 1;
+  position: absolute;
+  top: 2349px;
+  left: 990px;
+  overflow: hidden;
+}
+.aboutpic {
+  width: 441px;
+  height: 561px;
+  position: absolute;
+  top: 2796px;
+  left: 225px;
+  overflow: hidden;
+}
+@keyframes in {
+  0% {
+    letter-spacing: 0.7px;
+    opacity: 0;
+  }
+  30% {
+    letter-spacing: 1px;
+    opacity: 1;
+  }
+  100% {
+    letter-spacing: 1.4px;
+    opacity: 1;
+  }
+}
+@keyframes boxshadow {
+  0% {
+    box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+  }
+  100% {
+    box-shadow: 0 0 0 20px rgba(0, 0, 0, 0);
+  }
+}
