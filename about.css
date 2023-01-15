@@ -1,0 +1,2351 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  margin: 0;
+}
+.smallnav {
+  width: 100%;
+  height: 54px;
+  background: linear-gradient(90.57deg, #16f0df -25.31%, #5849e2 103.48%);
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+  z-index: 1;
+}
+.mailsec {
+  width: 218px;
+  height: 21px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 982px;
+  overflow: hidden;
+  z-index: 2;
+}
+.mail {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 0px;
+  left: 27px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.mailic {
+  width: 20px;
+  height: 16px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  overflow: hidden;
+}
+.phonesec {
+  width: 212px;
+  height: 21px;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 1203px;
+  overflow: hidden;
+  z-index: 2;
+}
+.phone {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 0px;
+  left: 21px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.phoneic {
+  width: 15px;
+  height: 15px;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  overflow: hidden;
+}
+.contactb {
+  width: 139px;
+  height: 49px;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 1209px;
+  overflow: hidden;
+  z-index: 1;
+}
+.contactus {
+  width: 139px;
+  height: 49px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 30px;
+  z-index: 1;
+}
+.contactus:hover {
+  width: 139px;
+  height: 49px;
+  background: rgb(0, 0, 0);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 30px;
+  color: white;
+  animation: in 1s ease-out forwards;
+}
+
+.contactusbutton {
+  width: 93px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 14px;
+  left: 27px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+  z-index: 1;
+}
+.navinsights {
+  width: 57px;
+  color: black;
+  position: absolute;
+  top: 114px;
+  left: 537px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+  z-index: 1;
+}
+.nav:active {
+  color: rgba(72, 115, 255, 1);
+  font-weight: 700;
+}
+.nav:focus {
+  color: rgba(72, 115, 255, 1);
+  font-weight: 700;
+}
+.navdeals {
+  width: 106px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 625px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+  z-index: 1;
+}
+.navcareer {
+  width: 49px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 761px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+  z-index: 1;
+}
+.navabout {
+  width: 62px;
+  color: rgba(72, 115, 255, 1);
+  font-weight: 700;
+  position: absolute;
+  top: 114px;
+  left: 840px;
+  font-family: Poppins;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+  z-index: 1;
+}
+.searchic {
+  width: 50px;
+  height: 38px;
+  opacity: 1;
+  position: absolute;
+  top: 106px;
+  left: 1129px;
+  overflow: hidden;
+  z-index: 1;
+}
+.line {
+  position: absolute;
+  width: 38px;
+  height: 0px;
+  left: 1179px;
+  top: 106px;
+  z-index: 1;
+  border: 1px solid #000000;
+  transform: rotate(90deg);
+}
+.mainlogo {
+  width: 162px;
+  height: 60px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 93px;
+  left: 100px;
+  overflow: hidden;
+  z-index: 1;
+}
+.v3_2 {
+  width: 100%;
+  height: 1856px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.trustback {
+    width: 534px;
+    height: 64px;
+    background: rgba(230, 236, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 999px;
+    left: 985px;
+    overflow: hidden;
+}
+.trustclient {
+  width: 100%;
+  height: 279px;
+  position: absolute;
+  top: 857px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_6 {
+  width: 100%;
+  height: 108px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 68px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_7 {
+  width: 131px;
+  height: 49px;
+  background: url("../images/v3_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  left: 1209px;
+  overflow: hidden;
+}
+.v3_8 {
+  width: 131px;
+  height: 49px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v3_9 {
+  width: 78px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 14px;
+  left: 27px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_10 {
+  width: 50px;
+  height: 38px;
+  background: url("../images/v3_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 106px;
+  left: 1129px;
+  overflow: hidden;
+}
+.v3_11 {
+  width: 24px;
+  height: 24px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_12 {
+  width: 23px;
+  height: 23px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+.name {
+  color: #fff;
+}
+.v3_14 {
+  width: 162px;
+  height: 60px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 93px;
+  left: 100px;
+  overflow: hidden;
+}
+.v3_15 {
+  width: 148px;
+  height: 34px;
+  background: url("../images/v3_15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  left: 6px;
+  overflow: hidden;
+}
+.v3_16 {
+  width: 14px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 36px;
+}
+.v3_17 {
+  width: 10px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 54px;
+}
+.v3_18 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 70px;
+}
+.v3_19 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 86px;
+}
+.v3_20 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 101px;
+}
+.v3_21 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 120px;
+}
+.v3_22 {
+  width: 10px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 137px;
+}
+.v3_23 {
+  width: 16px;
+  height: 14px;
+  background: rgba(34, 31, 31, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v3_24 {
+  width: 14px;
+  height: 14px;
+  background: rgba(34, 31, 31, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 19px;
+}
+.v3_25 {
+  width: 17px;
+  height: 14px;
+  background: rgba(34, 31, 31, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 58px;
+}
+.v3_26 {
+  width: 18px;
+  height: 14px;
+  background: rgba(34, 31, 31, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 36px;
+}
+.v3_27 {
+  width: 22px;
+  height: 14px;
+  background: rgba(34, 31, 31, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 88px;
+}
+.v3_28 {
+  width: 17px;
+  height: 14px;
+  background: rgba(34, 31, 31, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 113px;
+}
+.v3_29 {
+  width: 100%;
+  height: 54px;
+  background: linear-gradient(rgba(22, 240, 223, 1), rgba(88, 73, 226, 1));
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 1px;
+  overflow: hidden;
+}
+.v3_30 {
+  width: 218px;
+  height: 21px;
+  background: url("../images/v3_30.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 982px;
+  overflow: hidden;
+}
+.v3_31 {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 0px;
+  left: 27px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_32 {
+  width: 20px;
+  height: 16px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_33 {
+  width: 24px;
+  height: 24px;
+  background: url("../images/v3_33.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 2px;
+  overflow: hidden;
+}
+.v3_34 {
+  width: 24px;
+  height: 24px;
+  background: url("../images/v3_34.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_35 {
+  width: 24px;
+  height: 24px;
+  background: url("../images/v3_35.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_36 {
+  width: 24px;
+  height: 24px;
+  background: url("../images/v3_36.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_37 {
+  width: 24px;
+  height: 24px;
+  background: url("../images/v3_37.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_38 {
+  width: 24px;
+  height: 24px;
+  background: url("../images/v3_38.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v3_39 {
+  width: 20px;
+  height: 16px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 2px;
+}
+.v3_40 {
+  width: 212px;
+  height: 21px;
+  background: url("../images/v3_40.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 1203px;
+  overflow: hidden;
+}
+.v3_41 {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 0px;
+  left: 21px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_42 {
+  width: 15px;
+  height: 15px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_43 {
+  width: 14px;
+  height: 15px;
+  background: url("../images/v3_43.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_44 {
+  width: 14px;
+  height: 15px;
+  background: url("../images/v3_44.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_45 {
+  width: 14px;
+  height: 15px;
+  background: url("../images/v3_45.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_46 {
+  width: 14px;
+  height: 15px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.aboutdescc {
+  width: 506px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 292px;
+  left: 467px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+  z-index: 1;
+}
+.visioncard {
+  width: 401px;
+  height: 275px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 510px;
+  left: 100px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.05999999865889549);
+  overflow: hidden;
+  z-index: 1;
+}
+.visionback {
+  width: 265px;
+  height: 265px;
+  background: url("assests/visionvisionback.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 515px;
+  left: 168px;
+  overflow: hidden;
+  z-index: 1;
+}
+.missioncard {
+  width: 401px;
+  height: 275px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 506px;
+  left: 519px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  z-index: 1;
+}
+.valuescard {
+  width: 401px;
+  height: 275px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 510px;
+  left: 938px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  z-index: 1;
+}
+.valuesback {
+  width: 265px;
+  height: 265px;
+  position: absolute;
+  top: 515px;
+  left: 1006px;
+  overflow: hidden;
+  z-index: 1;
+}
+.visiondesc {
+  width: 290px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 574px;
+  left: 172px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.missiondesc {
+  width: 290px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 574px;
+  left: 591px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.coredesc {
+  width: 290px;
+  color: rgba(74, 71, 84, 1);
+  position: absolute;
+  top: 574px;
+  left: 1010px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.accuracyhead {
+  width: 76px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 647px;
+  left: 1034px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.transparencyhead {
+  width: 106px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 673px;
+  left: 1034px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.professionalhead {
+  width: 106px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 699px;
+  left: 1034px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.collabhead {
+  width: 106px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 725px;
+  left: 1034px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.innohead {
+  width: 106px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 751px;
+  left: 1034px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.commavision2container {
+  width: 38px;
+  height: 38px;
+  opacity: 1;
+  position: absolute;
+  top: 524px;
+  left: 117px;
+  overflow: hidden;
+  z-index: 1;
+}
+.v3_66 {
+  width: 13px;
+  height: 22px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 13px;
+}
+.commamissioncontainer {
+    width: 38px;
+    height: 38px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 524px;
+    left: 535px;
+    overflow: hidden;
+    z-index: 1;
+}
+.v3_68 {
+  width: 13px;
+  height: 22px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 13px;
+}
+.commavaluescontainer {
+    width: 38px;
+    height: 38px;
+    opacity: 1;
+    position: absolute;
+    top: 524px;
+    left: 951px;
+    overflow: hidden;
+    z-index: 1;
+}
+.v3_70 {
+  width: 13px;
+  height: 22px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 13px;
+}
+.commavisioncontainer {
+  width: 39px;
+  height: 38px;
+  opacity: 1;
+  position: absolute;
+  top: 524px;
+  left: 137px;
+  overflow: hidden;
+  z-index: 1;
+}
+.commavisionic {
+  width: 13px;
+  height: 22px;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  z-index: 1;
+}
+.commamission2container {
+    width: 38px;
+    height: 38px;
+    /* background: rgba(255, 255, 255, 1); */
+    opacity: 1;
+    position: absolute;
+    top: 524px;
+    left: 555px;
+    overflow: hidden;
+    z-index: 1;
+}
+.v3_74 {
+  width: 13px;
+  height: 22px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 13px;
+}
+.commavalues2container {
+    width: 38px;
+    height: 38px;
+    opacity: 1;
+    position: absolute;
+    top: 524px;
+    left: 971px;
+    overflow: hidden;
+    z-index: 1;
+}
+.v3_76 {
+  width: 13px;
+  height: 22px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 13px;
+}
+.trustdesc {
+    width: 779px;
+    color: rgba(74, 71, 84, 1);
+    position: absolute;
+    top: 969px;
+    left: 383px;
+    font-family: Red Hat Display;
+    font-weight: 500;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+}
+.trusthead {
+    width: 246px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 903px;
+    left: 664px;
+    font-family: Red Hat Display;
+    font-weight: 800;
+    font-size: 34px;
+    opacity: 1;
+    text-align: left;
+}
+.trusticon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 900px;
+    left: 598px;
+    overflow: hidden;
+}
+.accuracy {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  top: 650px;
+  left: 1010px;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.proffesional {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  top: 702px;
+  left: 1010px;
+  overflow: hidden;
+  z-index: 1;
+}
+.transparency {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  top: 676px;
+  left: 1010px;
+  overflow: hidden;
+  z-index: 1;
+}
+.collaboration{
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    top: 726px;
+    left: 1010px;
+    overflow: hidden;
+    z-index: 1;
+}
+.innovation{
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    top: 752px;
+    left: 1010px;
+    overflow: hidden;
+    z-index: 1;
+}
+.visioncontainer {
+  width: 67px;
+  height: 32px;
+  position: absolute;
+  top: 466px;
+  left: 293px;
+  overflow: hidden;
+  z-index: 1;
+}
+.vision {
+  width: 67px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.missioncontainer {
+  width: 82px;
+  height: 32px;
+  position: absolute;
+  top: 466px;
+  left: 705px;
+  overflow: hidden;
+  z-index: 1;
+}
+.mission {
+  width: 82px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.corecontainer {
+  width: 131px;
+  height: 32px;
+  position: absolute;
+  top: 466px;
+  left: 1099px;
+  overflow: hidden;
+  z-index: 1;
+}
+.core {
+  width: 131px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.missionback {
+  width: 265px;
+  height: 265px;
+  position: absolute;
+  top: 511px;
+  left: 587px;
+  overflow: hidden;
+  z-index: 2;
+}
+.trustunderline {
+    width: 161px;
+    position: absolute;
+    top: 950px;
+    left: 699px;
+    border: 1px solid rgba(72, 115, 255, 1);
+}
+.visionicsec {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 458px;
+  left: 241px;
+  overflow: hidden;
+  z-index: 1;
+}
+.visioniccontainer {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.visionic {
+  width: 72px;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  overflow: hidden;
+}
+.missionicsec {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 458px;
+  left: 653px;
+  overflow: hidden;
+  z-index: 1;
+}
+.missioniccontainer {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.missionic {
+  width: 79px;
+  height: 63px;
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+}
+.valuessec {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 458px;
+  left: 1047px;
+  overflow: hidden;
+  z-index: 1;
+}
+.valuescontainer {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.valuesic {
+  width: 73px;
+  height: 68px;
+  opacity: 1;
+  position: absolute;
+  overflow: hidden;
+}
+.v3_103 {
+  width: 100%;
+  height: 611px;
+  background: url("../images/v3_103.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1245px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_104 {
+  width: 100%;
+  height: 611px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_105 {
+  width: 162px;
+  height: 60px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 110px;
+  left: 110px;
+  overflow: hidden;
+}
+.v3_106 {
+  width: 148px;
+  height: 34px;
+  background: url("../images/v3_106.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  left: 6px;
+  overflow: hidden;
+}
+.v3_107 {
+  width: 14px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 36px;
+}
+.v3_108 {
+  width: 10px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 54px;
+}
+.v3_109 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 70px;
+}
+.v3_110 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 86px;
+}
+.v3_111 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 101px;
+}
+.v3_112 {
+  width: 12px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 120px;
+}
+.v3_113 {
+  width: 10px;
+  height: 14px;
+  background: rgba(71, 135, 199, 1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 137px;
+}
+.v3_114 {
+  width: 16px;
+  height: 14px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v3_115 {
+  width: 14px;
+  height: 14px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 19px;
+}
+.v3_116 {
+  width: 17px;
+  height: 14px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 58px;
+}
+.v3_117 {
+  width: 18px;
+  height: 14px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 36px;
+}
+.v3_118 {
+  width: 22px;
+  height: 14px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 88px;
+}
+.v3_119 {
+  width: 17px;
+  height: 14px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 113px;
+}
+.v3_120 {
+  width: 401px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 535px;
+  left: 119px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_121 {
+  width: 105px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 199px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_122 {
+  width: 69px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 243px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_123 {
+  width: 84px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 287px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_124 {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 331px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_125 {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 375px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_126 {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 419px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_127 {
+  width: 38px;
+  height: 38px;
+  background: url("../images/v3_127.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 443px;
+  overflow: hidden;
+}
+.v3_128 {
+  width: 38px;
+  height: 38px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v3_129 {
+  width: 12px;
+  height: 23px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  overflow: hidden;
+}
+.v3_130 {
+  width: 12px;
+  height: 23px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+}
+.v3_131 {
+  width: 38px;
+  height: 38px;
+  background: url("../images/v3_131.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 489px;
+  overflow: hidden;
+}
+.v3_132 {
+  width: 38px;
+  height: 38px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v3_133 {
+  width: 23px;
+  height: 23px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  overflow: hidden;
+}
+.v3_134 {
+  width: 2px;
+  height: 2px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 16px;
+}
+.v3_135 {
+  width: 11px;
+  height: 11px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 6px;
+}
+.v3_136 {
+  width: 23px;
+  height: 23px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+}
+.v3_137 {
+  width: 38px;
+  height: 38px;
+  background: url("../images/v3_137.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 536px;
+  overflow: hidden;
+}
+.v3_138 {
+  width: 38px;
+  height: 38px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v3_139 {
+  width: 23px;
+  height: 23px;
+  background: rgba(88, 73, 226, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  overflow: hidden;
+}
+.v3_140 {
+  width: 23px;
+  height: 23px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  overflow: hidden;
+}
+.v3_141 {
+  width: 20px;
+  height: 17px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 1px;
+}
+.v3_142 {
+  width: 38px;
+  height: 38px;
+  background: url("../images/v3_142.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 582px;
+  overflow: hidden;
+}
+.v3_143 {
+  width: 38px;
+  height: 38px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  overflow: hidden;
+}
+.v3_144 {
+  width: 23px;
+  height: 23px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  overflow: hidden;
+}
+.v3_145 {
+  width: 20px;
+  height: 20px;
+  background: rgba(72, 115, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+}
+.v3_146 {
+  width: 200px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 111px;
+  left: 443px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_147 {
+  width: 200px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 111px;
+  left: 814px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_148 {
+  width: 237px;
+  height: 21px;
+  background: url("../images/v3_148.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 171px;
+  left: 814px;
+  overflow: hidden;
+}
+.v3_149 {
+  width: 205px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 0px;
+  left: 32px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_150 {
+  width: 25px;
+  height: 20px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_151 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v3_151.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 3px;
+  overflow: hidden;
+}
+.v3_152 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v3_152.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_153 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v3_153.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_154 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v3_154.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_155 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v3_155.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_156 {
+  width: 30px;
+  height: 30px;
+  background: url("../images/v3_156.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v3_157 {
+  width: 25px;
+  height: 20px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 2px;
+}
+.v3_158 {
+  width: 221px;
+  height: 24px;
+  background: url("../images/v3_158.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  left: 814px;
+  overflow: hidden;
+}
+.v3_159 {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 1px;
+  left: 30px;
+  font-family: Red Hat Display;
+  font-weight: 500;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_160 {
+  width: 24px;
+  height: 24px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_161 {
+  width: 23px;
+  height: 24px;
+  background: url("../images/v3_161.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_162 {
+  width: 23px;
+  height: 24px;
+  background: url("../images/v3_162.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_163 {
+  width: 23px;
+  height: 24px;
+  background: url("../images/v3_163.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_164 {
+  width: 23px;
+  height: 24px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v3_165 {
+  width: 67px;
+  height: 72px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 123px;
+  left: 1269px;
+  border: 1px solid rgba(72, 115, 255, 1);
+}
+.v3_166 {
+  width: 26px;
+  height: 26px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 146px;
+  left: 1290px;
+  overflow: hidden;
+}
+.v3_167 {
+  width: 24px;
+  height: 14px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  left: 1px;
+}
+.v3_168 {
+  width: 54px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 537px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_169 {
+  width: 106px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 625px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_170 {
+  width: 49px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 114px;
+  left: 761px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_171 {
+  width: 64px;
+  color: rgba(72, 115, 255, 1);
+  position: absolute;
+  top: 114px;
+  left: 840px;
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.aboutuss {
+  width: 213px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 216px;
+  left: 647px;
+  font-family: Red Hat Display;
+  font-weight: 700;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+  z-index: 1;
+}
+.abouuticsec {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  top: 226px;
+  left: 580px;
+  overflow: hidden;
+  z-index: 1;
+}
+.abouticcontainer {
+  width: 51px;
+  height: 51px;
+  position: absolute;
+  top: 226.5px;
+  left: 580px;
+  overflow: hidden;
+  z-index: 1;
+}
+.aboutic {
+  width: 81px;
+  height: 77px;
+  opacity: 1;
+  position: absolute;
+  top: 226.5px;
+  left: 580px;
+  overflow: hidden;
+  z-index: 1;
+}
+.footercontainer {
+  width: 100%;
+  height: 611px;
+  background: url("../images/v2401_11410.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1245px;
+  left: 0px;
+  overflow: hidden;
+  z-index: 1;
+}
+.footer {
+  width: 100%;
+  height: 611px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  z-index: 2;
+}
+.footerlogo {
+  width: 162px;
+  height: 60px;
+  opacity: 1;
+  position: absolute;
+  top: 110px;
+  left: 110px;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.footercopyright {
+  width: 401px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 535px;
+  left: 119px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footermenuR {
+  width: 105px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 245px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.fottermenuB {
+  width: 69px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 243px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footermenuN {
+  width: 84px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 287px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footermenuA {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 331px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footermenuT {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 375px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footermenuS {
+  width: 143px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 419px;
+  left: 119px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.facebook {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 105.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 443px;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.instagram {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 106.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 489px;
+  overflow: hidden;
+  z-index: 2;
+}
+.twitter {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 107.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 536px;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.linkedin {
+  width: 38px;
+  height: 38px;
+  background: url("assests/Group\ 108.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 160px;
+  left: 582px;
+  overflow: hidden;
+  z-index: 2;
+}
+.keepconnect {
+  width: 200px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 111px;
+  left: 443px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footercontact {
+  width: 200px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 111px;
+  left: 814px;
+  font-family: Red Hat Display;
+  font-weight: 600;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footermail {
+  width: 237px;
+  height: 21px;
+  position: absolute;
+  top: 171px;
+  left: 814px;
+  overflow: hidden;
+  z-index: 2;
+}
+.footermailtext {
+  width: 205px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: -5px;
+  left: 32px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footermailic {
+  width: 26px;
+  height: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: -1px;
+  overflow: hidden;
+  z-index: 2;
+}
+.footermailimg {
+  width: 20px;
+  height: 15px;
+  background: url("assests/bigmail.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 3px;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.footerphone {
+  width: 221px;
+  height: 24px;
+  position: absolute;
+  top: 212px;
+  left: 814px;
+  overflow: hidden;
+  z-index: 2;
+}
+.footerphonetext {
+  width: 191px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 1px;
+  left: 30px;
+  font-family: Red Hat Display;
+  font-weight: 300;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  z-index: 2;
+}
+.footerphoneic {
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  z-index: 2;
+}
+.footerphoneimg {
+  width: 20px;
+  height: 20px;
+  background: url("assests/20296458971553228387\ 2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.movetoupborder {
+  width: 67px;
+  height: 72px;
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  position: absolute;
+  top: 123px;
+  left: 1269px;
+  border: 1px solid rgba(72, 115, 255, 1);
+  border-radius: 5px;
+  z-index: 2;
+}
+.movetoupcontainer {
+  width: 26px;
+  height: 26px;
+  opacity: 1;
+  position: absolute;
+  top: 146px;
+  left: 1290px;
+  overflow: hidden;
+  z-index: 2;
+}
+.movetoup {
+  width: 25px;
+  height: 25px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  z-index: 2;
+}

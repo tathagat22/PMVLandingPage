@@ -417,7 +417,7 @@ body {
 }
 .sliderback {
   width: 100%;
-  height: 250px;
+  height: 360px;
   background: rgba(255, 255, 255, 1);
   opacity: 1;
   position: absolute;
@@ -544,7 +544,7 @@ body {
 }
 .consult {
   width: 352px;
-  height: 250px;
+  height: 360px;
   opacity: 1;
   position: absolute;
   top: 789px;
@@ -553,7 +553,7 @@ body {
 }
 .consultback {
   width: 352px;
-  height: 250px;
+  height: 348px;
   background: linear-gradient(rgba(88, 73, 226, 1), rgba(30, 229, 184, 1));
   opacity: 1;
   position: absolute;
@@ -592,7 +592,7 @@ body {
 }
 .topadvisor {
   width: 249px;
-  height: 193px;
+  height: 291px;
   opacity: 1;
   position: absolute;
   top: 818px;
@@ -601,7 +601,7 @@ body {
 }
 .topadvisorback {
   width: 249px;
-  height: 193px;
+  height: 284px;
   background: rgba(230, 236, 255, 1);
   opacity: 1;
   position: absolute;
@@ -639,7 +639,7 @@ body {
 }
 .efficient {
   width: 249px;
-  height: 193px;
+  height: 291px;
   opacity: 1;
   position: absolute;
   top: 818px;
@@ -648,7 +648,7 @@ body {
 }
 .efficientback {
   width: 249px;
-  height: 193px;
+  height: 284px;
   background: rgba(230, 236, 255, 1);
   opacity: 1;
   position: absolute;
@@ -686,7 +686,7 @@ body {
 }
 .hitech {
   width: 249px;
-  height: 193px;
+  height: 291px;
   opacity: 1;
   position: absolute;
   top: 818px;
@@ -695,7 +695,7 @@ body {
 }
 .hitechback {
   width: 249px;
-  height: 193px;
+  height: 284px;
   background: rgba(230, 236, 255, 1);
   opacity: 1;
   position: absolute;
