@@ -109,12 +109,12 @@ body {
 }
 .navinsights {
   width: 57px;
-  color: black;
+  color: rgba(72, 115, 255, 1);
+  font-weight: 700;
   position: absolute;
   top: 114px;
   left: 537px;
   font-family: Poppins;
-  font-weight: 500;
   font-size: 14px;
   opacity: 1;
   text-align: left;
