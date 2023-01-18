@@ -1,0 +1,297 @@
+maincontainer = document.getElementById("maincontainer");
+function aboutus() {
+  maincontainer.innerHTML = `
+    <h1>Hello World</h1>
+    <h1>hehehehehehehehhe</h1>
+    `;
+}
+function insight() {
+  maincontainer.innerHTML = `
+    <div id="hero">
+    <div class="herorect"></div>
+    <h1 class="herohead">Helping you make Smart financial choices</h1>
+    <div class="heroimg">
+      <div class="heroimage">
+        <img src="/assests/Group 76.png" alt="" />
+      </div>
+    </div>
+    <div class="heroarrowri"></div>
+    <div class="heroarrowle"></div>
+    <div class="arrowleft">
+      <img
+        src="/assests/material-symbols_arrow-back-ios-new-rounded.png"
+        alt=""
+      />
+    </div>
+    <div class="arrowright">
+      <img
+        src="/assests/material-symbols_arrow-back-ios-new-rounded-1.png"
+        alt=""
+      />
+    </div>
+    <a href="#">
+      <div class="lmbutton">
+        <div class="buttonlm"><span class="lmtext">Learn more</span></div>
+        
+      </div>
+    </a>
+    <span class="herodesc"
+      >Our professional team works to increase productivity and cost
+      effectiveness on the market.</span
+    >
+    <div class="sliderback"></div>
+    <div id="slider">
+      <div class="consult">
+        <div class="consultback"></div>
+        <span class="consulthead">Consult and find solutions! </span
+        ><span class="consultdesc">Lorem ipsum dolor sit amet </span>
+      </div>
+      <div class="topadvisor">
+        <div class="topadvisorback"></div>
+        <span class="topadvisorhead">Top Advisory </span
+        ><span class="topadvisordesc"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore....</span
+        >
+      </div>
+      <div class="efficient">
+        <div class="efficientback"></div>
+        <span class="efficienthead">Efficient</span
+        ><span class="efficientdesc"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore....</span
+        >
+      </div>
+      <div class="hitech">
+        <div class="hitechback"></div>
+        <span class="hitechhead">Hi-Tech tool</span
+        ><span class="hitechdesc"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore....</span
+        >
+      </div>
+    </div>
+  </div>
+  <div id="howsec">
+    <span class="howheader">How It Works</span>
+    <span class="howdesc"
+      >Unlock Business Success with the Expertise of Skilled
+      Professionals!</span
+    >
+    <div class="stepline"></div>
+    <div class="marketresback"></div>
+    <div class="fmvback"></div>
+    <div class="pitchback"></div>
+    <div class="pitchvideo">
+      <img src="/assests/image 7.png" alt="" />
+    </div>
+    <div class="fmvvideo">
+      <img src="/assests/image 6.png" alt="" />
+    </div>
+    <div class="marketresvideo">
+      <img src="/assests/image 5.png" alt="" />
+    </div>
+    <span class="marketresdesc"
+      >Get the data-driven insights you need to succeed with your start-up.
+      We provide professional market research services that help you make
+      sound business decisions quickly and with confidence.</span
+    ><span class="fmvdesc"
+      >Create highly-accurate models that can be used to inform decisions,
+      analyse trends and make predictions. Get deeper insights into your
+      data and stay ahead of the curve with Plan My Venture.</span
+    ><span class="pitchdesc"
+      >Make a great first impression with our professional pitch deck
+      service. From concept to completion, let us design an amazing and
+      impactful presentation that takes your ideas and business to the next
+      level.</span
+    ><span class="marketreshead">Market Research</span
+    ><span class="fmvhead">Financial Modelling & Valuation</span
+    ><span class="pitchhead">Pitch Deck</span>
+    <div class="oneback"></div>
+    <span class="one">01</span>
+    <div class="twoback"></div>
+    <span class="twoo">02</span>
+    <div class="threeback"></div>
+    <span class="three">03</span>
+    <div class="videoicon">
+      <img
+        src="/assests/material-symbols_play-arrow-rounded-1.png"
+        alt=""
+      />
+    </div>
+    <div class="fmvvideosic">
+      <img
+        src="/assests/material-symbols_play-arrow-rounded-1.png"
+        alt=""
+      />
+    </div>
+    <div class="pitchvideosic">
+      <img
+        src="/assests/material-symbols_play-arrow-rounded-1.png"
+        alt=""
+      />
+    </div>
+  </div>
+  <div id="aboutsec">
+    <div class="aboutback"></div>
+    <div class="aboutlightrect"></div>
+    <div class="aboutmain">
+      <div class="aboutrect"></div>
+
+      <span class="abouthead">I’m Vignesh Iyer.</span>
+      <div class="aboutc">
+        <a href="#"
+          ><div class="aboutconnect"></div>
+          <span class="whatsappbutton">Connect on WhatsApp</span></a
+        >
+      </div>
+      <span class="aboutdesc"
+        >I am a seasoned entrepreneur and founder of Plan My Venture with 9+
+        Years of experience in creating and scaling two startup ventures.<br />
+        I have raised funding for my companies, and now the business is
+        running on auto-pilot mode.<br />
+        An Alumni of IIM-Calcutta, I have envisioned the idea of helping
+        startups in terms of creating a stellar pitch deck and financial
+        model from an investor's perspective. <br />We have Catered to 1200+
+        startups till now and collectively they have raised $100+ Million in
+        funding.</span
+      >
+    </div>
+    <span class="hi">Hi,</span>
+    <div class="aboutpic"><img src="/assests/image 9.png" alt="" /></div>
+  </div>
+  <div id="customersec">
+    <span class="customerhead">Our esteemed customers</span>
+    <span class="customerdesc"
+      >Build a customized plan to enhance funding prospects and establish
+      research-based goals.</span
+    >
+    <span class="partnerhead">Customer success stories</span>
+    <span class="partnerdesc">SHARK TANK INDIA - SEASON 1</span>
+    <div class="canebot"><img src="/assests/image 11.png" alt="" /></div>
+    <div class="theyarnbazaar">
+      <img src="/assests/image 12.png" alt="" />
+    </div>
+    <div class="yourfootdoctor">
+      <img src="/assests/image 13.png" alt="" />
+    </div>
+    <div class="isac"><img src="/assests/image 14.png" alt="" /></div>
+
+    <div class="virtualspaceback">
+      <div class="virtualback"></div>
+      <div class="virtualimg"></div>
+    </div>
+    <div class="upcyclerback">
+      <div class="upcycler"></div>
+      <div class="upcyclerimg"></div>
+    </div>
+    <div class="bh">
+      <div class="beinghuman"></div>
+      <div class="beinghumanimg"></div>
+    </div>
+    <div class="emiratesback">
+      <div class="emirates"></div>
+      <div class="emiratesimg"></div>
+    </div>
+    <div class="nimbusback">
+      <div class="nimbus"></div>
+      <div class="nimbusimg"></div>
+    </div>
+    <div class="infiniteback">
+      <div class="infinite"></div>
+      <div class="infiniteimg"></div>
+    </div>
+    <div class="studypaqback">
+      <div class="studypaq"></div>
+      <div class="studypaqimg"></div>
+    </div>
+    <div class="jiovioback">
+      <div class="jiovio"></div>
+      <div class="jiovioimg"></div>
+    </div>
+    <div class="customdesign"></div>
+  </div>
+  <div id="reviewsec">
+    <span class="reviewhead">Our Customer Love us</span>
+
+    <span class="reviewdesc">Discover what our customers are saying</span>
+
+    <div class="salesimg"></div>
+    <div class="founderback"></div>
+    <div class="founderlightrect"></div>
+    <span class="founderhead">Founder - Himalayan Man</span
+    ><span class="founderdesc"
+      >When Martin was looking for a reliable partner to help him with
+      financial modelling, the team at Plan My Venture stepped up to the
+      plate. With years of experience in providing innovative financial
+      modelling solutions customized for their clients, Martin’s project was
+      no exception. They provided a complete range of services, from goal
+      setting and risk management to capital structure optimization and
+      raising debt or equity. By leveraging their deep experience in
+      developing financial models for both startups and established
+      organizations, Plan My Venture helped Martin make informed decisions
+      about his venture. Their tailored service helped him successfully
+      navigate the complex world of finance and reach his goals.</span
+    ><span class="foundername">Martin Mackay,</span>
+    <div class="comma1"><img src="/assests/fluent_comma-20-regular-1.png" class="commaone"></img></div>
+    <div class="comma2"><img src="/assests/fluent_comma-20-regular-1.png" class="commatwo"></img></div>
+    <div class="reviewvideo"></div>
+    <div class="mountainback"></div>
+    <div class="mountainimg"></div>
+  </div>
+  <div id="customerreviewsec">
+    <div class="specialback"></div>
+    <div class="specialwhiterect"></div>
+    <span class="specialhead">An Award-Winning Firm. Loved by Founders.</span
+    ><span class="specialsmall">SPECIAL OFFER</span
+    ><span class="specialdesc">
+      Winning Firm. Loved by Founders. Your growth is our priority</span>
+    <a href="#"><div class="specialconnect">
+      <div class="specialbutton"><span class="specialconnectbutton">Connect Now!</span></div>
+      
+    </div></a>
+  </div>
+  
+  <div class="footercontainer">
+    <div class="footer"></div>
+    <div class="footerlogo">
+      <img src="/assests/Plan My Venture Logo-10 2.png" alt="">
+    </div>
+    <span class="footercopyright">Plan My Venture © 2021 All Rights Reserved Privacy Policy</span
+    ><a href="#"><span class="footermenuR">Resource</a></span
+    ><a href="#"><span class="footermenuB">Blog</span
+    ></a><a href="#"><span class="footermenuN">News</span
+    ></a><a href="#"><span class="footermenuA">About us</span
+    ></a><a href="#"><span class="footermenuT">Our team</span
+    ></a><a href="#"><span class="footermenuS">Our Services</span></a>
+    <a href="#"><div class="facebook">
+    </div></a>
+    <a href="#"><div class="instagram">
+    </div></a>
+    <a href="#"><div class="twitter">
+    </div></a>
+    <a href="#"><div class="linkedin">
+    </div></a>
+    <span class="keepconnect">Keep Connected</span
+    ><span class="footercontact">Contact Us</span>
+    <div class="footermail">
+      <span class="footermailtext"> planmyv@gmail.com</span>
+      <div class="footermailic">
+        <div class="footermailimg">
+        </div>
+      </div>
+    </div>
+    <div class="footerphone">
+      <span class="footerphonetext">+91 98191 31639</span>
+      <div class="footerphoneic">
+        <div class="footerphoneimg">
+        </div>
+      </div>
+    </div>
+    <div class="movetoupborder"></div>
+    <a href="#top"><div class="movetoupcontainer"><img src="/assests/ic_sharp-keyboard-arrow-up.png" class="movetoup"></img></div></a>
+  </div>
+    `;
+}
+document.getElementById("aboutus").onclick = aboutus();
+document.getElementById("insight").onclick = insight();
